@@ -33,4 +33,3 @@ All solutions are written in a detailed, ready-to-submit academic format using P
 * Hugging Face Transformers
 * NumPy
 * Google Colab
-This repository is created for academic submission of DS-AG-031 assignment and follows the guidelines provided in the coursework. All implementations are in Python and compatible with Google Colab.
